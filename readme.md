@@ -18,6 +18,6 @@ Este es un sitio web personal creado para mostrar mi portafolio de personal. La 
 
 ## Tecnologías Utilizadas
 - **HTML5**: Estructura semántica del sitio.
-- **CSS3**: Estilos responsivos con Grid, Flexbox, animaciones y media queries.
+- **CSS**: Estilos responsivos con Grid, Flexbox, animaciones y media queries.
 - **Font Awesome**: Íconos para enlaces sociales, favicon y proyectos.
 - **Google Fonts**: Fuente Montserrat para tipografía.
